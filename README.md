@@ -43,9 +43,6 @@ Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e 
   <a href="https://github.com/RadikeCosa">
 </p>
 
-<p align="center">
-  <em>📧 LinkedIn y CV profesional disponibles bajo solicitud - ¡Contáctame!</em>
-</p>
 
 ---
 
