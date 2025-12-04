@@ -38,8 +38,9 @@ Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e 
   <a href="https://github.com/RadikeCosa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/ramicosa/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Disponible bajo solicitud"/>
-  <img src="https://img.shields.io/badge/CV_Profesional-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV - Disponible bajo solicitud"/>
+  <a href="https://github.com/RadikeCosa">
 </p>
 
 <p align="center">
