@@ -46,16 +46,6 @@ Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e 
 
 ---
 
-## 📫 Conecta conmigo
-
-<p align="center">
-  <a href="https://github.com/RadikeCosa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RadikeCosa&color=blue&style=flat-square" alt="Profile views"/>
 </p>
