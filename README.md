@@ -1,14 +1,14 @@
 # Hola, soy Radike 👋
 
 <p align="center">
-  <em>Desarrollador Full Stack apasionado por crear soluciones elegantes, eficientes y escalables</em>
+  <em>Desarrollador Full Stack apasionado por generar soluciones</em>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas. Mi enfoque principal está en escribir **código limpio, mantenible y bien documentado**, aplicando buenas prácticas de ingeniería de software.
+Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas. Mi enfoque principal está en escribir **código limpio, mantenible y bien documentado**, aplicando buenas prácticas de desarrollo de software.
 
 
 ## 🛠️ Tecnologías y Herramientas
