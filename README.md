@@ -1,14 +1,14 @@
-# Hola, soy Radike 👋
+# Hola, soy Ramiro
 
 <p align="center">
-  <em>Desarrollador Full Stack apasionado por generar soluciones</em>
+  <em>Desarrollador enfocado en generar soluciones</em>
 </p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un **desarrollador Full Stack** con experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas. Mi enfoque principal está en escribir **código limpio, mantenible y bien documentado**, aplicando buenas prácticas de desarrollo de software.
+Soy un **desarrollador** con experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas. Mi enfoque principal está en escribir **código limpio, mantenible y bien documentado**, aplicando buenas prácticas de desarrollo de software.
 
 
 ## 🛠️ Tecnologías y Herramientas
