@@ -71,31 +71,11 @@ Public landing + private clinical admin app for a home physiotherapy service in 
 
 ---
 
-### ⚽ [pronostico-mundial](https://github.com/RadikeCosa/pronostico-mundial)
-Full stack prediction app for the FIFA World Cup. Handles scoring rules, result reveal tied to match kickoff, and manual result loading for a real group of users.
-
-`Next.js` `Prisma` `PostgreSQL`
-
----
-
-### 🎮 [tutti-frutti](https://github.com/RadikeCosa/tutti-frutti)
-Real-time multiplayer word game. Players compete simultaneously with live synchronization across sessions.
-
-`Next.js` `TypeScript` `Supabase Realtime`
-
----
-
 ### 🛒 [fira-estudio](https://github.com/RadikeCosa/fira-estudio)
 E-commerce for a design studio. Includes payment processing, analytics integration and production deployment.
 
 `Next.js` `TypeScript` `Supabase` `Mercado Pago` `GA4` `Vercel`
 
----
-
-### 🃏 [v0-dictionary](https://github.com/RadikeCosa/v0-dictionary)
-Room-based multiplayer game with voting, scoring and a serverless backend.
-
-`Next.js` `Serverless` `Multiplayer`
 
 ---
 
