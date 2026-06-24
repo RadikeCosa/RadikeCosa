@@ -1,48 +1,107 @@
-# Hola, soy Ramiro
+# Ramiro Cosa
 
 <p align="center">
-  <em>Desarrollador enfocado en generar soluciones</em>
+  <em>Kinesiologist with 20+ years in healthcare · Building HealthTech web applications since 2020</em>
 </p>
-
----
-
-## 🚀 Sobre mí
-
-Soy un **desarrollador** con experiencia en el diseño, desarrollo e implementación de aplicaciones web modernas. Mi enfoque principal está en escribir **código limpio, mantenible y bien documentado**, aplicando buenas prácticas de desarrollo de software.
-
-
-## 🛠️ Tecnologías y Herramientas
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-### Backend & Herramientas
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-## 💼 Información Profesional
 
 <p align="center">
   <a href="https://github.com/RadikeCosa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/ramicosa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Disponible bajo solicitud"/>
-  <a href="https://github.com/RadikeCosa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
+---
+
+## About me
+
+I'm a licensed kinesiologist with over 20 years of experience in home healthcare, clinical coordination, clinical audit, and communication with patients, families and multidisciplinary teams. Since 2020 I've been building web applications with a focus on HealthTech.
+
+My background lets me work at the intersection of clinical workflows and software: understanding the operational problem first, then building the tool to address it.
+
+---
+
+## What I'm looking for
+
+- **HealthTech Product & Implementation Analyst**
+- **Clinical Systems Analyst**
+- **Junior Full Stack Developer** — HealthTech focus
+- QA / Functional Analyst — Healthcare
+
+---
+
+## Tech Stack
+
+**Frontend & Frameworks**
+Next.js · React · TypeScript · JavaScript · HTML · CSS
+
+**Backend & Data**
+Node.js · Prisma · PostgreSQL · Supabase
+
+**HealthTech**
+HAPI FHIR (project-level experience with FHIR R4 resources)
+
+**Tools & Deployment**
+Git · Vercel
+
+---
+
+## Healthcare & HealthTech Background
+
+| Area | Experience |
+|---|---|
+| Home healthcare & physiotherapy | 20+ years |
+| Clinical coordination & audit | Long-term role |
+| Patient & family communication | Direct |
+| Clinical workflow digitization | Main project |
+| FHIR R4 / HAPI FHIR | Project-level |
+
+I've worked directly with the operational challenges that HealthTech products address: care coordination, treatment documentation, visit tracking, family-facing reporting. That experience shapes how I approach software.
+
+---
+
+## Featured Projects
+
+### 🏥 [kinesiologiaadomicilio](https://github.com/RadikeCosa/kinesiologiaadomicilio)
+Public landing + private clinical admin app for a home physiotherapy service in Neuquén, Argentina. Built with Next.js, TypeScript and HAPI FHIR to support patient intake, treatment tracking, visit documentation and family-facing reports.
+
+`Next.js` `TypeScript` `HAPI FHIR` `FHIR R4`
+
+---
+
+### ⚽ [pronostico-mundial](https://github.com/RadikeCosa/pronostico-mundial)
+Full stack prediction app for the FIFA World Cup. Handles scoring rules, result reveal tied to match kickoff, and manual result loading for a real group of users.
+
+`Next.js` `Prisma` `PostgreSQL`
+
+---
+
+### 🎮 [tutti-frutti](https://github.com/RadikeCosa/tutti-frutti)
+Real-time multiplayer word game. Players compete simultaneously with live synchronization across sessions.
+
+`Next.js` `TypeScript` `Supabase Realtime`
+
+---
+
+### 🛒 [fira-estudio](https://github.com/RadikeCosa/fira-estudio)
+E-commerce for a design studio. Includes payment processing, analytics integration and production deployment.
+
+`Next.js` `TypeScript` `Supabase` `Mercado Pago` `GA4` `Vercel`
+
+---
+
+### 🃏 [v0-dictionary](https://github.com/RadikeCosa/v0-dictionary)
+Room-based multiplayer game with voting, scoring and a serverless backend.
+
+`Next.js` `Serverless` `Multiplayer`
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramicosa/)
 
 ---
 
